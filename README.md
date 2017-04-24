@@ -1,6 +1,6 @@
 # QCBS introduction to Stan workshop
 
-<img src="http://mc-stan.org/images/stan_logo.png" width="100"/><img src="http://qcbs.ca/wiki/_media/logo_text.png?w=500&tok=33a9d2" width="100"/>
+<img src="http://mc-stan.org/images/stan_logo.png" width="100"/><img src="http://qcbs.ca/wiki/_media/logo_text.png?w=500&tok=33a9d2" width="400"/>
 
 &nbsp;
 
