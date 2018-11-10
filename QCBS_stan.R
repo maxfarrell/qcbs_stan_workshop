@@ -482,7 +482,7 @@ plot(stan_lm1, plotfun="trace")
 summary(stan_lm1)
 
 ## Checking what priors were used
-prior_summary(stan_glm1)
+prior_summary(stan_lm1)
 
 # This should be chosen before running the model, but here we will
 # just check what default priors rstanarm is using:
